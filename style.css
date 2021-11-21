@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+}
+
+.logo {
+    padding-left:  35px;
+    padding-top: 15px;
+    
+    
+
+}
+.icon {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 35px;
+    padding-top: 15px;
+
+}
+.container-body {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 200px;
+}
+.container-left {
+    
+
+}
+.os {
+    width: 192px;
+    height: 54px;
+    margin-left: 25px;
+    padding-left: 25PX;
+
+
+}
+.play {
+    width: 192px;
+    margin-left: 25px;
+    padding-right: 25PX;
+
+}
+.play-os {
+    display: flex;
+    align-items: center;
+    
+}
+.text1 {
+    font-size: 70px;
+    width: 445px;
+    font-family: font-family: 'Roboto', sans-serif;;
+}
+.text2 {
+    font-size: 22px;
+    width: 445px;
+    font-family: font-family: 'Roboto', sans-serif;;
+}
